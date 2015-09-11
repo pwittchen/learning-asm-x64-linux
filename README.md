@@ -9,7 +9,7 @@ Preparation
 Install nasm:
 
 ```
-sudo apt-get install nasm
+$ sudo apt-get install nasm
 ```
 
 Compiling and running the programs
@@ -61,13 +61,13 @@ clean:
 After that, we can use the following command to compile the project:
 
 ```
-make
+$ make
 ```
 
 If we want to remove output files (`hello.o` and `hello`), we can just type:
 
 ```
-make clean
+$ make clean
 ```
 
 References
