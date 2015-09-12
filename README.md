@@ -6,11 +6,13 @@ Repository created in order to learn basics of Assembly x64 for Linux
 Preparation
 -----------
 
-Install nasm:
+Install NASM:
 
 ```
 $ sudo apt-get install nasm
 ```
+
+**The Netwide Assembler (NASM)** is an assembler and disassembler for the Intel x86 architecture. 
 
 Compiling and running the programs
 ----------------------------------
