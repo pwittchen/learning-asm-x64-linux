@@ -74,4 +74,5 @@ $ make clean
 
 References
 ----------
-https://github.com/0xAX/asm
+- https://github.com/0xAX/asm
+- http://0xax.github.io/categories/assembly/
