@@ -74,5 +74,14 @@ $ make clean
 
 References
 ----------
+
+### Assembly
 - https://github.com/0xAX/asm
 - http://0xax.github.io/categories/assembly/
+
+### Makefile
+- [A simple Makefile tutorial](http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
+- [Makefiles - tutorial by example](http://mrbook.org/blog/tutorials/make/)
+- [Makefiles - Computer Science II](https://www.cs.umd.edu/class/fall2002/cmsc214/Tutorial/makefile.html)
+- [Unix Makefile Tutorial](http://www.tutorialspoint.com/makefile/)
+
