@@ -78,6 +78,7 @@ References
 ### Assembly
 - https://github.com/0xAX/asm
 - http://0xax.github.io/categories/assembly/
+- http://cs.lmu.edu/~ray/notes/gasexamples/
 
 ### Makefile
 - [A simple Makefile tutorial](http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
