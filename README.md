@@ -87,3 +87,6 @@ References
 - [Unix Makefile Tutorial](http://www.tutorialspoint.com/makefile/)
 - [Makefile tutorial](http://makefiletutorial.com/)
 
+### Others
+- [How to make a Computer Operating System?](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
+- [BareMetal - a 64-bit OS for x86-64 based computers](https://github.com/ReturnInfinity/BareMetal-OS)
