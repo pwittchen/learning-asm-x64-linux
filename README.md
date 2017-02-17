@@ -82,6 +82,7 @@ References
 - http://stackoverflow.com/questions/721583/what-is-the-best-way-to-learn-x86-assembly-on-a-linux-platform
 - http://stackoverflow.com/questions/836946/basic-yet-thorough-assembly-tutorial-linux
 - https://www.tutorialspoint.com/assembly_programming/
+- http://helion.pl/ksiazki/praktyczny-kurs-asemblera-wydanie-ii-eugeniusz-wrobel,pkase2.htm
 
 ### Makefile
 - [A simple Makefile tutorial](http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
